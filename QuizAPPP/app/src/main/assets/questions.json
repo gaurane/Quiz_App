@@ -1,0 +1,83 @@
+{
+  "Java": [
+    {
+      "questionText": "What is Java?",
+      "options": ["A programming language", "A database", "A web framework", "A device"],
+      "correctAnswer": "A programming language"
+    },
+    {
+      "questionText": "Who developed Java?",
+      "options": ["Microsoft", "Apple", "Oracle", "Google"],
+      "correctAnswer": "Oracle"
+    },
+    {
+      "questionText": "Which keyword is used to define a class in Java?",
+      "options": ["def", "class", "object", "function"],
+      "correctAnswer": "class"
+    },
+    {
+      "questionText": "Which of the following is not a primitive data type in Java?",
+      "options": ["int", "char", "boolean", "String"],
+      "correctAnswer": "String"
+    },
+    {
+      "questionText": "Which method is used to start a thread in Java?",
+      "options": ["run()", "start()", "begin()", "init()"],
+      "correctAnswer": "start()"
+    }
+  ],
+  "Kotlin": [
+    {
+      "questionText": "What is Kotlin?",
+      "options": ["A programming language", "A coffee drink", "A database", "A web framework"],
+      "correctAnswer": "A programming language"
+    },
+    {
+      "questionText": "Who developed Kotlin?",
+      "options": ["JetBrains", "Google", "Oracle", "Facebook"],
+      "correctAnswer": "JetBrains"
+    },
+    {
+      "questionText": "Kotlin is fully interoperable with which programming language?",
+      "options": ["Java", "C++", "Python", "JavaScript"],
+      "correctAnswer": "Java"
+    },
+    {
+      "questionText": "Which of the following is a feature of Kotlin?",
+      "options": ["Null safety", "Dynamic typing", "No support for Android", "Slow execution speed"],
+      "correctAnswer": "Null safety"
+    },
+    {
+      "questionText": "Which function in Kotlin is used to print output?",
+      "options": ["print()", "println()", "show()", "output()"],
+      "correctAnswer": "println()"
+    }
+  ],
+  "Android": [
+    {
+      "questionText": "What is Android?",
+      "options": ["An OS", "A programming language", "A database", "A device"],
+      "correctAnswer": "An OS"
+    },
+    {
+      "questionText": "Which language is used for Android development?",
+      "options": ["Java", "C#", "Swift", "Kotlin"],
+      "correctAnswer": "Java"
+    },
+    {
+      "questionText": "Which layout arranges elements vertically in Android?",
+      "options": ["LinearLayout", "RelativeLayout", "ConstraintLayout", "GridLayout"],
+      "correctAnswer": "LinearLayout"
+    },
+    {
+      "questionText": "Which of these is a valid Android component?",
+      "options": ["Activity", "Function", "Class", "Loop"],
+      "correctAnswer": "Activity"
+    },
+    {
+      "questionText": "What is the default layout for Android's main screen?",
+      "options": ["LinearLayout", "RelativeLayout", "ConstraintLayout", "FrameLayout"],
+      "correctAnswer": "LinearLayout"
+    }
+  ]
+}
